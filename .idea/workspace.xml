@@ -1,0 +1,1203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b89938e5-5664-4454-83e9-2ffe25798353" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/jeesite4/web/src/main/webapp/WEB-INF/classes/" />
+    <ignored path="$PROJECT_DIR$/jeesite4/web/target/" />
+    <ignored path="$PROJECT_DIR$/jeesite4/modules/core/target/" />
+    <ignored path="$PROJECT_DIR$/jeesite4/modules/template/target/" />
+    <ignored path="$PROJECT_DIR$/jeesite4/common/target/" />
+    <ignored path="$PROJECT_DIR$/jeesite4/parent/target/" />
+    <ignored path="$PROJECT_DIR$/jeesite4/root/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="2090059498">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="11" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.10" value="3" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Dockerfile" value="3" />
+          <entry key="bat" value="2" />
+          <entry key="class" value="9" />
+          <entry key="erm" value="1" />
+          <entry key="html" value="15" />
+          <entry key="java" value="36" />
+          <entry key="js" value="3" />
+          <entry key="json" value="1" />
+          <entry key="properties" value="4" />
+          <entry key="sh" value="2" />
+          <entry key="sql" value="16" />
+          <entry key="vue" value="1" />
+          <entry key="xml" value="18" />
+          <entry key="yml" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="9" />
+          <entry key="HTML" value="15" />
+          <entry key="JAVA" value="36" />
+          <entry key="JSON" value="1" />
+          <entry key="JavaScript" value="3" />
+          <entry key="PLAIN_TEXT" value="8" />
+          <entry key="Properties" value="4" />
+          <entry key="SQL" value="16" />
+          <entry key="Vue.js" value="1" />
+          <entry key="XML" value="18" />
+          <entry key="YAML" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="294" />
+          <entry key="java" value="317" />
+          <entry key="yml" value="87" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="293" />
+          <entry key="JAVA" value="317" />
+          <entry key="Vue.js" value="1" />
+          <entry key="YAML" value="87" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jeesite4/web/src/main/resources/config/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="529">
+              <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jeesite4/web/src/main/resources/config/application-dev.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="506">
+              <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jeesite4/web/src/main/java/com/jeesite/modules/users/web/TenantInfoController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1817">
+              <caret line="108" column="3" selection-start-line="108" selection-start-column="3" selection-end-line="108" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jeesite4/web/src/main/resources/views/modules/tenant/tenantFeeList.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="529">
+              <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jeesite4/web/src/main/resources/views/modules/tenant/tenantFeeForm.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2714">
+              <caret line="118" column="26" selection-start-line="118" selection-start-column="20" selection-end-line="118" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jeesite4/modules/core/src/main/resources/views/themes/default/modules/sys/sysIndex/topMenu.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="506">
+              <caret line="22" column="55" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/jeesite4/web/src/main/java/com/jeesite/modules/tenant/web/TenantFeeController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="91" column="3" selection-start-line="91" selection-start-column="3" selection-end-line="91" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>insert</find>
+      <find>port</find>
+      <find>java.io.tmpdir</find>
+      <find>log.path</find>
+      <find>仪表盘</find>
+      <find>Global.getConfig('sys.index.desktopUrl')</find>
+      <find>desktop</find>
+      <find>spring.profiles.active</find>
+      <find>mybatis</find>
+      <find>dataSource</find>
+      <find>druid</find>
+      <find>springboot</find>
+      <find>profiles</find>
+      <find>dev</find>
+      <find>treeData</find>
+      <find>DictUtils</find>
+      <find>testUser</find>
+      <find>sys/office</find>
+      <find>G</find>
+      <find>sys.index.menuStyle</find>
+      <find>sys.user.passwordModifySecurityLevel</find>
+      <find>sys.account.registerUser</find>
+      <find>sys.index.desktopUrl</find>
+      <find>4</find>
+      <find>getConfig</find>
+    </findStrings>
+    <dirStrings>
+      <dir>D:\javaSoft\thinkgem-jeesite4-master\jeesite4\web\src\main\java\com\jeesite\modules\test</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/jeesite4/web/src/main/java/com/jeesite/modules/Application.java" />
+        <option value="$PROJECT_DIR$/jeesite4/web/src/main/java/com/jeesite/modules/test/web/DemoController.java" />
+        <option value="$PROJECT_DIR$/jeesite4/web/bin/docker/application-prod.yml" />
+        <option value="$PROJECT_DIR$/jeesite4/web/bin/docker/application-dev.yml" />
+        <option value="$PROJECT_DIR$/jeesite4/web/src/main/resources/config/application-dev.yml" />
+        <option value="$PROJECT_DIR$/jeesite4/web/src/main/java/com/jeesite/modules/tenant/entity/TenantFee.java" />
+        <option value="$PROJECT_DIR$/jeesite4/web/src/main/java/com/jeesite/modules/tenant/web/TenantFeeController.java" />
+        <option value="$PROJECT_DIR$/jeesite4/web/src/main/resources/views/modules/tenant/tenantFeeList.html" />
+        <option value="$PROJECT_DIR$/jeesite4/web/src/main/java/com/jeesite/modules/users/web/TenantInfoController.java" />
+        <option value="$PROJECT_DIR$/jeesite4/modules/core/src/main/resources/views/themes/default/modules/sys/sysIndex/topMenu.html" />
+        <option value="$PROJECT_DIR$/jeesite4/web/src/main/resources/views/modules/tenant/tenantFeeForm.html" />
+        <option value="$PROJECT_DIR$/jeesite4/web/src/main/resources/config/application.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\apache\repositoryxlt" />
+        <option name="mavenHome" value="D:/apache/apache-maven-3.3.3" />
+        <option name="userSettingsFile" value="D:\apache\apache-maven-3.3.3\conf\demoforjeeweb.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="enabledProfiles">
+      <list>
+        <option value="aliyun" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="JeeSite Parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="JeeSite Web" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="JeeSite Web" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-108" />
+    <option name="y" value="61" />
+    <option name="width" value="664" />
+    <option name="height" value="970" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>AccessibilityLintAndroid</id>
+          </State>
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>CDI (Contexts and Dependency Injection)</id>
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Code style issuesCSS</id>
+          </State>
+          <State>
+            <id>Code style issuesJava</id>
+          </State>
+          <State>
+            <id>Control flow issuesJava</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>CorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>DOM issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Declaration redundancyJava</id>
+          </State>
+          <State>
+            <id>Dependency issuesJava</id>
+          </State>
+          <State>
+            <id>Error handlingJava</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>IconsUsabilityLintAndroid</id>
+          </State>
+          <State>
+            <id>ImportsJava</id>
+          </State>
+          <State>
+            <id>Invalid elementsCSS</id>
+          </State>
+          <State>
+            <id>JBoss Seam</id>
+          </State>
+          <State>
+            <id>JSP</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java 8Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java EE</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavadocJava</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+          <State>
+            <id>MessagesCorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>Naming conventionsJava</id>
+          </State>
+          <State>
+            <id>PerformanceLintAndroid</id>
+          </State>
+          <State>
+            <id>Plugin DevKit</id>
+          </State>
+          <State>
+            <id>Probable bugsCSS</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>Probable bugsKotlin</id>
+          </State>
+          <State>
+            <id>Properties Files</id>
+          </State>
+          <State>
+            <id>Redundant constructsKotlin</id>
+          </State>
+          <State>
+            <id>Reflective accessJava</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+          <State>
+            <id>SecurityLintAndroid</id>
+          </State>
+          <State>
+            <id>Style issuesKotlin</id>
+          </State>
+          <State>
+            <id>TestNGJava</id>
+          </State>
+          <State>
+            <id>Threading issuesJava</id>
+          </State>
+          <State>
+            <id>UsabilityLintAndroid</id>
+          </State>
+          <State>
+            <id>VisibilityJava</id>
+          </State>
+          <State>
+            <id>YAML</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="thinkgem-jeesite4-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thinkgem-jeesite4-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thinkgem-jeesite4-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thinkgem-jeesite4-master" type="462c0819:PsiDirectoryNode" />
+              <item name="jeesite4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thinkgem-jeesite4-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thinkgem-jeesite4-master" type="462c0819:PsiDirectoryNode" />
+              <item name="jeesite4" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thinkgem-jeesite4-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thinkgem-jeesite4-master" type="462c0819:PsiDirectoryNode" />
+              <item name="jeesite4" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thinkgem-jeesite4-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thinkgem-jeesite4-master" type="462c0819:PsiDirectoryNode" />
+              <item name="jeesite4" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thinkgem-jeesite4-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thinkgem-jeesite4-master" type="462c0819:PsiDirectoryNode" />
+              <item name="jeesite4" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thinkgem-jeesite4-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thinkgem-jeesite4-master" type="462c0819:PsiDirectoryNode" />
+              <item name="jeesite4" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thinkgem-jeesite4-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thinkgem-jeesite4-master" type="462c0819:PsiDirectoryNode" />
+              <item name="jeesite4" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thinkgem-jeesite4-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thinkgem-jeesite4-master" type="462c0819:PsiDirectoryNode" />
+              <item name="jeesite4" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="tenant" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thinkgem-jeesite4-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thinkgem-jeesite4-master" type="462c0819:PsiDirectoryNode" />
+              <item name="jeesite4" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="tenant" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thinkgem-jeesite4-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thinkgem-jeesite4-master" type="462c0819:PsiDirectoryNode" />
+              <item name="jeesite4" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thinkgem-jeesite4-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thinkgem-jeesite4-master" type="462c0819:PsiDirectoryNode" />
+              <item name="jeesite4" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thinkgem-jeesite4-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thinkgem-jeesite4-master" type="462c0819:PsiDirectoryNode" />
+              <item name="jeesite4" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="users" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thinkgem-jeesite4-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thinkgem-jeesite4-master" type="462c0819:PsiDirectoryNode" />
+              <item name="jeesite4" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thinkgem-jeesite4-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thinkgem-jeesite4-master" type="462c0819:PsiDirectoryNode" />
+              <item name="jeesite4" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thinkgem-jeesite4-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thinkgem-jeesite4-master" type="462c0819:PsiDirectoryNode" />
+              <item name="jeesite4" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thinkgem-jeesite4-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thinkgem-jeesite4-master" type="462c0819:PsiDirectoryNode" />
+              <item name="jeesite4" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="tenant" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thinkgem-jeesite4-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thinkgem-jeesite4-master" type="462c0819:PsiDirectoryNode" />
+              <item name="jeesite4" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thinkgem-jeesite4-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thinkgem-jeesite4-master" type="462c0819:PsiDirectoryNode" />
+              <item name="jeesite4" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thinkgem-jeesite4-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thinkgem-jeesite4-master" type="462c0819:PsiDirectoryNode" />
+              <item name="jeesite4" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SearchEverywhereHistoryKey" value="Global&#9;PSI&#9;JAVA://com.jeesite.common.config.Global&#10;Glo&#9;FILE&#9;jar://D:/apache/repositoryxlt/com/jeesite/jeesite-framework/4.1.8-SNAPSHOT/jeesite-framework-4.1.8-20200422.135755-24.jar!/com/jeesite/common/config/Global.class&#10;Off&#9;FILE&#9;file://D:/javaSoft/thinkgem-jeesite4-master/jeesite4/modules/core/src/main/java/com/jeesite/modules/sys/entity/Office.java&#10;Us&#9;FILE&#9;file://D:/javaSoft/thinkgem-jeesite4-master/jeesite4/modules/core/src/main/java/com/jeesite/modules/sys/web/user/EmpUserController.java&#10;Office&#9;FILE&#9;file://D:/javaSoft/thinkgem-jeesite4-master/jeesite4/modules/core/src/main/java/com/jeesite/modules/sys/web/OfficeController.java&#10;Tenan&#9;PSI&#9;JAVA://com.jeesite.modules.tenant.entity.TenantFee&#10;DictUtils&#9;FILE&#9;jar://D:/apache/repositoryxlt/com/jeesite/jeesite-framework/4.1.8-SNAPSHOT/jeesite-framework-4.1.8-20200422.135755-24.jar!/com/jeesite/modules/sys/utils/DictUtils.class&#10;com.jeesite.common.config.Global&#9;PSI&#9;JAVA://com.jeesite.common.config.Global&#10;jeesite-core.yml&#9;FILE&#9;file://D:/javaSoft/thinkgem-jeesite4-master/jeesite4/modules/core/src/main/resources/config/jeesite-core.yml&#10;drui&#9;FILE&#9;file://D:/javaSoft/thinkgem-jeesite4-master/jeesite4/modules/core/src/main/java/com/jeesite/modules/config/web/DruidStatConfig.java&#10;dru&#9;FILE&#9;jar://D:/apache/repositoryxlt/com/alibaba/druid/1.1.18/druid-1.1.18.jar!/com/alibaba/druid&#10;application&#9;FILE&#9;file://D:/javaSoft/thinkgem-jeesite4-master/jeesite4/modules/core/src/test/java/application.yml&#10;application-&#9;FILE&#9;file://D:/javaSoft/thinkgem-jeesite4-master/jeesite4/web/bin/docker/application-prod.yml&#10;core.sql&#9;FILE&#9;file://D:/javaSoft/thinkgem-jeesite4-master/jeesite4/web/db/mysql/core.sql&#10;insert&#9;null&#9;null&#10;mysql&#9;FILE&#9;file://D:/javaSoft/thinkgem-jeesite4-master/jeesite4/modules/core/src/main/resources/db/upgrade/core/mysql/mysql_4.0.1.sql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588917400485" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\javaSoft\thinkgem-jeesite4-master\jeesite4\web\src\main\resources\config" />
+      <recent name="D:\javaSoft\thinkgem-jeesite4-master\jeesite4\web\bin\docker" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Application">
+    <configuration name="InitData.initCoreData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jeesite-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jeesite.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jeesite.test" />
+      <option name="MAIN_CLASS_NAME" value="com.jeesite.test.InitData" />
+      <option name="METHOD_NAME" value="initCoreData" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InitData.initStep01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jeesite-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jeesite.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jeesite.test" />
+      <option name="MAIN_CLASS_NAME" value="com.jeesite.test.InitData" />
+      <option name="METHOD_NAME" value="initStep01" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea -Djeesite.initdata=true -Dflowable.databaseSchemaUpdate=drop-create" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="jeesite-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jeesite.modules.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jeesite.modules.Application" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.InitData.initCoreData" />
+      <item itemvalue="JUnit.InitData.initStep01" />
+      <item itemvalue="Spring Boot.Application" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Application" />
+        <item itemvalue="JUnit.InitData.initStep01" />
+        <item itemvalue="JUnit.InitData.initCoreData" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\fa115\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b89938e5-5664-4454-83e9-2ffe25798353" name="Default Changelist" comment="" />
+      <created>1584583075339</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584583075339</updated>
+      <workItem from="1584583076851" duration="789000" />
+      <workItem from="1584584317204" duration="5000" />
+      <workItem from="1584584355145" duration="6000" />
+      <workItem from="1584587512461" duration="5911000" />
+      <workItem from="1588058741119" duration="2631000" />
+      <workItem from="1588121248900" duration="6357000" />
+      <workItem from="1588211122086" duration="8400000" />
+      <workItem from="1588234031478" duration="1490000" />
+      <workItem from="1588725727574" duration="3046000" />
+      <workItem from="1588813285985" duration="16615000" />
+      <workItem from="1588901024710" duration="7911000" />
+      <workItem from="1589250446430" duration="15000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="InitData_initCoreData - 2020.03.19 at 14h 53m 52s.xml">
+      <configuration name="InitData.initCoreData" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InitData_initCoreData - 2020.03.19 at 14h 54m 50s.xml">
+      <configuration name="InitData.initCoreData" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InitData_initStep01 - 2020.03.19 at 14h 55m 30s.xml">
+      <configuration name="InitData.initStep01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InitData_initStep01 - 2020.03.19 at 14h 58m 32s.xml">
+      <configuration name="InitData.initStep01" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="53176000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.23726542" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.49865952" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.45040214" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.3297587" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3297587" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.16756032" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/jeesite4/web/src/main/java/com/jeesite/modules/test/web/TestTreeController.java</url>
+          <line>205</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/jeesite4/web/src/main/resources/config/logback-spring.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="48" lean-forward="true" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeesite4/web/src/main/webapp/WEB-INF/startup.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeesite4/web/src/main/java/com/jeesite/modules/test/service/TestDataService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeesite4/modules/core/src/test/java/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeesite4/web/src/main/resources/config/j2cache.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1525" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeesite4/web/src/main/resources/config/beetl.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeesite4/web/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeesite4/modules/core/bin/javadoc.bat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeesite4/web/src/main/java/com/jeesite/modules/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeesite4/modules/core/src/main/resources/views/modules/sys/sysDesktop.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="718" column="7" selection-start-line="718" selection-start-column="7" selection-end-line="718" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeesite4/modules/core/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1443" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeesite4/modules/template/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="97" lean-forward="true" selection-start-line="16" selection-start-column="97" selection-end-line="16" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeesite4/modules/core/src/main/resources/config/jeesite-core.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4140">
+          <caret line="180" column="10" lean-forward="true" selection-start-line="180" selection-start-column="10" selection-end-line="180" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeesite4/web/bin/docker/application-prod.yml" />
+    <entry file="file://$PROJECT_DIR$/jeesite4/web/bin/docker/application-dev.yml" />
+    <entry file="file://$PROJECT_DIR$/jeesite4/web/bin/package.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeesite4/web/bin/package.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeesite4/web/bin/docker/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeesite4/common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeesite4/root/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeesite4/parent/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7843">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeesite4/modules/core/src/main/java/com/jeesite/modules/config/web/DruidStatConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1104">
+          <caret line="50" column="1" lean-forward="true" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeesite4/web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="34" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeesite4/web/src/main/resources/views/modules/demo/demoFormTabPage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-997" />
+      </provider>
+    </entry>
+    <entry file="jar://D:/apache/repositoryxlt/com/jeesite/jeesite-framework/4.1.8-SNAPSHOT/jeesite-framework-4.1.8-20200422.135755-24.jar!/com/jeesite/modules/sys/service/DictDataService.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/apache/repositoryxlt/com/jeesite/jeesite-framework/4.1.8-SNAPSHOT/jeesite-framework-4.1.8-20200422.135755-24.jar!/com/jeesite/modules/sys/utils/DictUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="21" column="44" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/apache/repositoryxlt/com/jeesite/jeesite-framework/4.1.8-SNAPSHOT/jeesite-framework-4.1.8-20200422.135755-24.jar!/static/common/jeesite.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="7" column="7043" selection-start-line="7" selection-start-column="7043" selection-end-line="7" selection-end-column="7043" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/apache/repositoryxlt/com/jeesite/jeesite-framework/4.1.8-SNAPSHOT/jeesite-framework-4.1.8-20200422.135755-24.jar!/com/jeesite/modules/sys/entity/User.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-834">
+          <caret line="195" column="13" selection-start-line="195" selection-start-column="13" selection-end-line="195" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeesite4/modules/core/src/main/java/com/jeesite/modules/sys/entity/EmpUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-345">
+          <caret line="76" column="33" selection-start-line="76" selection-start-column="29" selection-end-line="76" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeesite4/modules/core/src/main/java/com/jeesite/modules/sys/entity/Office.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="55" column="21" selection-start-line="55" selection-start-column="21" selection-end-line="55" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeesite4/web/src/main/java/com/jeesite/modules/test/entity/TestData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="64" column="35" lean-forward="true" selection-start-line="64" selection-start-column="35" selection-end-line="64" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeesite4/web/src/main/resources/views/modules/demo/demoDataGridGroupGrid.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="152" column="38" selection-start-line="152" selection-start-column="30" selection-end-line="152" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/apache/repositoryxlt/com/jeesite/jeesite-framework/4.1.8-SNAPSHOT/jeesite-framework-4.1.8-20200422.135755-24.jar!/com/jeesite/common/entity/DataEntity.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="989">
+          <caret line="61" column="22" selection-start-line="61" selection-start-column="22" selection-end-line="61" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeesite4/web/src/main/java/com/jeesite/modules/tenant/entity/TenantFee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="28" column="58" lean-forward="true" selection-start-line="28" selection-start-column="58" selection-end-line="28" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeesite4/web/src/main/java/com/jeesite/modules/users/entity/TenantInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="32" column="27" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeesite4/modules/core/src/main/java/com/jeesite/modules/sys/web/user/EmpUserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1219">
+          <caret line="74" column="12" lean-forward="true" selection-start-line="74" selection-start-column="12" selection-end-line="74" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeesite4/web/src/main/java/com/jeesite/modules/test/web/TestTreeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="199" column="54" lean-forward="true" selection-start-line="199" selection-start-column="54" selection-end-line="199" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeesite4/modules/core/src/main/java/com/jeesite/modules/sys/web/OfficeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="291" selection-start-line="291" selection-end-line="291" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeesite4/web/src/main/java/com/jeesite/modules/test/web/DemoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-40">
+          <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeesite4/modules/core/src/main/resources/i18n/core/common/i18n_zh_CN.properties">
+      <provider editor-type-id="ResourceBundle" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="24" column="30" lean-forward="true" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeesite4/modules/core/src/main/resources/views/themes/default/modules/sys/sysIndex.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/apache/repositoryxlt/com/jeesite/jeesite-framework/4.1.8-SNAPSHOT/jeesite-framework-4.1.8-20200422.135755-24.jar!/com/jeesite/common/config/Global.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="272" column="20" lean-forward="true" selection-start-line="272" selection-start-column="20" selection-end-line="272" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeesite4/web/src/main/resources/views/modules/demo/demoDataGridEditGrid.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3720">
+          <caret line="77" column="47" selection-start-line="77" selection-start-column="47" selection-end-line="77" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeesite4/web/src/main/resources/config/application-prod.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeesite4/web/src/main/resources/config/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeesite4/web/src/main/resources/config/application-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeesite4/web/src/main/java/com/jeesite/modules/users/web/TenantInfoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1817">
+          <caret line="108" column="3" selection-start-line="108" selection-start-column="3" selection-end-line="108" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeesite4/web/src/main/resources/views/modules/tenant/tenantFeeList.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeesite4/web/src/main/resources/views/modules/tenant/tenantFeeForm.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2714">
+          <caret line="118" column="26" selection-start-line="118" selection-start-column="20" selection-end-line="118" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeesite4/modules/core/src/main/resources/views/themes/default/modules/sys/sysIndex/topMenu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="22" column="55" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeesite4/web/src/main/java/com/jeesite/modules/tenant/web/TenantFeeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="91" column="3" selection-start-line="91" selection-start-column="3" selection-end-line="91" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>jeesite-web:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>jeesite-root</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.27952328" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
